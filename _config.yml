@@ -1,0 +1,25 @@
+title:              ProjectThinkAlpha
+email:              increaseodeyemi@gmail.com
+description:        ...Think Big
+author:             TheProjectAlpha
+#baseurl:            "/startbootstrap-clean-blog-jekyll"
+url:                "https://startbootstrap.github.io"
+
+# Social Profiles
+twitter_username:   increaseodeyemi
+github_username:    UpgradeOfficial
+facebook_username:  philip odeyemi
+instagram_username:  
+linkedin_username:
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
